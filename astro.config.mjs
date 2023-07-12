@@ -9,7 +9,7 @@ import { defineConfig } from 'astro/config'
 
 // https://astro.build/config
 export default defineConfig({
-  base: '/REPO_NAME/',
+  base: '/FM-002-Product-Preview-Card-Component-With-Astro/',
   compressHTML: true,
   integrations: [tailwind()],
   site: 'https://ciensprog.github.io',
