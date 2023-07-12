@@ -1,0 +1,15 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "skipLibCheck": false,
+    "verbatimModuleSyntax": true,
+
+    /* Path aliases */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@/types/*": ["types/*"]
+    }
+  },
+  "include": ["src", "types"]
+}
