@@ -22,7 +22,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/CHALLENGE_SOLUTION_URL_SLUG](https://www.frontendmentor.io/solutions/CHALLENGE_SOLUTION_URL_SLUG)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-with-astro-GT_qaU1a6y](https://www.frontendmentor.io/solutions/product-preview-card-component-with-astro-GT_qaU1a6y)
 - Live Site URL: [https://ciensprog.github.io/FM-002-Product-Preview-Card-Component-With-Astro/](https://ciensprog.github.io/FM-002-Product-Preview-Card-Component-With-Astro/)
 
 ### Built with
