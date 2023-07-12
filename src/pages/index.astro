@@ -4,6 +4,19 @@ import Layout from '@/layouts/Layout.astro'
 
 <Layout>
   <section class="grid min-h-screen px-5 py-10 place-content-center z-10">
-    <h1 class="font-medium text-2xl">App</h1>
+    <article
+      class="bg-white grid grid-cols-1 overflow-hidden rounded-[0.625rem] max-w-[21.25rem] w-full sm:grid-cols-2 sm:max-w-[37.5rem]"
+    >
+      <h1 class="sr-only">Frontend Mentor Challenge</h1>
+      <figure class="h-60 sm:h-full w-full">
+        <img
+          src="product.jpg"
+          class="h-full object-cover w-full"
+          height={450}
+          width={300}
+          alt="Product"
+        />
+      </figure>
+    </article>
   </section>
 </Layout>
